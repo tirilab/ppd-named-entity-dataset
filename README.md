@@ -15,8 +15,7 @@ MMLite[1] was used to annotate biomedical terms from the following BabyCenter.co
 
 1. Demner-Fushman D, Rogers WJ, Aronson AR. MetaMap Lite: an evaluation of a new Java implementation of MetaMap. Journal of the American Medical Informatics Association. 2017 Jan 27;24(4):841-4.
 
-## License
-Data can be used as is under the [MIT License](https://github.com/translational-informatics/ppd-named-entity-dataset/blob/master/LICENSE) attached to the repository.
+## License and Citation
+Data can be used as-is under the [MIT License](https://github.com/translational-informatics/ppd-named-entity-dataset/blob/master/LICENSE) attached to the repository. Please cite this article if using this data set:
 
-## Acknowledgements
-Content is supplemental material for following publication: Chowdhuri S, McCrea S, Demner-Fushman D, Taylor CO. Extracting Biomedical Terms from Postpartum Depression Online Health Communities. In AMIA Summits on Translational Science Proceedings, vol. 2019 (accepted).
+Chowdhuri S, McCrea S, Demner-Fushman D, Taylor CO. Extracting Biomedical Terms from Postpartum Depression Online Health Communities. In AMIA Summits on Translational Science Proceedings, vol. 2019 (accepted).
