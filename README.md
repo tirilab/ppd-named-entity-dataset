@@ -1,11 +1,11 @@
 # Postpartum Depression Named Entity Dataset
 
-We created a dataset of postpartum depression (PPD) forum posts with biomedical term annotations. 
+We created a dataset of postpartum depression (PPD) forum threads with biomedical term annotations. 
 
 ## Data
 This corpus includes pre-processed 10,548 BabyCenter.com forum threads (posts and comments) and [MMLite](https://metamap.nlm.nih.gov/MetaMapLite.shtml) annotations. 
 
-The "PPD-NER-Corpus-1.0" folder contains pre-processed text files for each PPD forum post (.txt files), annotation files (.ann files), and the MMLite configuration file (annotation.conf). 
+The "PPD-NER-Corpus-1.0" folder contains pre-processed text files for each PPD forum thread (.txt files), annotation files (.ann files), and the MMLite configuration file (annotation.conf). 
 
 ## Preparation
 MMLite[1] was used to annotate biomedical terms from the following BabyCenter.com online health communities discussing PPD:
