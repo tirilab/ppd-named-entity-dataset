@@ -8,7 +8,7 @@ This corpus includes pre-processed 10,548 BabyCenter.com forum threads (posts an
 The "PPD-NER-Corpus-1.0" folder contains pre-processed text files for each PPD forum thread (.txt files), annotation files (.ann files), and the MMLite configuration file (annotation.conf). 
 
 ## Preparation
-MMLite[1] was used to annotate biomedical terms from the following BabyCenter.com online health communities discussing PPD:
+MMLite[1] was used to annotate biomedical terms from the following BabyCenter.com public online health community discussion boards:
 * Postpartum Depression, Anxiety and Related Topics [[Internet](https://community.babycenter.com/groups/a15325)]. BabyCenter Community. (cited 2018May9)
 * Postpartum Depression and Postpartum Anxiety Support Group [[Internet](https://community.babycenter.com/groups/a6742129)]. BabyCenter Community. (cited 2018May9)
 * POSTPARTUM ANXIETY SUPPORT GROUP [[Internet](https://community.babycenter.com/groups/a6718921)]. BabyCenter Community. (cited 2018May9) 
