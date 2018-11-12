@@ -1,0 +1,1 @@
+This folder contains 3 subfolders .Each folder belongs to a particular PPD group and contains its posts and comments in .txt format, along with .ann (annotation files) and MMLite configuration file (annotation.conf) files
