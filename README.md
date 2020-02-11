@@ -18,4 +18,4 @@ MMLite[1] was used to annotate biomedical terms from the following BabyCenter.co
 ## License and Citation
 Data can be used as-is under the [MIT License](https://github.com/translational-informatics/ppd-named-entity-dataset/blob/master/LICENSE) attached to the repository. Please cite this article if using this data set:
 
-Chowdhuri S, McCrea S, Demner-Fushman D, Taylor CO. Extracting Biomedical Terms from Postpartum Depression Online Health Communities. In AMIA Summits on Translational Science Proceedings, vol. 2019 (accepted).
+Chowdhuri S, McCrea S, Fushman DD, Taylor CO. [Extracting Biomedical Terms from Postpartum Depression Online Health Communities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6568056/). AMIA Summits on Translational Science Proceedings. 2019;2019:592.
